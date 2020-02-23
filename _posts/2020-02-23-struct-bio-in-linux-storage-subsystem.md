@@ -1,6 +1,6 @@
 ---
-layout:post
-title:Struct ```bio``` in Linux Storage Subsystem
+layout: post
+title: Struct bio in Linux Storage Subsystem
 ---
 
 The struct ```bio``` is a very import struct in linux storage subsystem. It is involved in many processes of I/O.
